@@ -1,0 +1,15 @@
+[
+{
+  "name": "Chicago Cubs",
+  "league:": "National",
+  "division": "Central"
+},{
+  "name": "Baltimore Orioles",
+  "league": "American",
+  "division": "East"
+},{
+  "name": "Seattle Mariners",
+  "league": "American",
+  "division": "West"
+}
+]
