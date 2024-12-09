@@ -1,9 +1,9 @@
 [
-{
-  "name": "Chicago Cubs",
-  "league:": "National",
-  "division": "Central"
-},{
+  {
+    "name": "Chicago Cubs",
+    "league:": "National",
+    "division": "Central"
+  },{
   "name": "Baltimore Orioles",
   "league": "American",
   "division": "East"
